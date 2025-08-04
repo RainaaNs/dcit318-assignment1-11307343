@@ -1,0 +1,14 @@
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.exe
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.deps.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.runtimeconfig.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\bin\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.AssemblyInfo.cs
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\refint\GradeCalculatorApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.pdb
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\GradeCalculatorApp.genruntimeconfig.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\GradeCalculatorApp\obj\Debug\net9.0\ref\GradeCalculatorApp.dll
