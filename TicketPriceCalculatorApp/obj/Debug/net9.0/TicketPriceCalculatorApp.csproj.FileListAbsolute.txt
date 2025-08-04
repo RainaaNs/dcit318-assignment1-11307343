@@ -1,0 +1,15 @@
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.exe
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.deps.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.runtimeconfig.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\bin\Debug\net9.0\TicketPriceCalculatorApp.pdb
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.AssemblyInfo.cs
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.sourcelink.json
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\refint\TicketPriceCalculatorApp.dll
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.pdb
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\TicketPriceCalculatorApp.genruntimeconfig.cache
+C:\Users\T-Plug\OneDrive\Desktop\University\Level 300\2nd Sem\318 Programming 2 C#\dcit318-assignment1-11307343\TicketPriceCalculatorApp\obj\Debug\net9.0\ref\TicketPriceCalculatorApp.dll
